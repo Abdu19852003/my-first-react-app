@@ -5,26 +5,24 @@
   text-align: center;
 }
 
-body{
-  background: url(./assets/joshua-kettle-DgE-BlRLKUU-unsplash.jpg) no-repeat center center/cover ;
-  
+body {
+  background: url(./assets/joshua-kettle-DgE-BlRLKUU-unsplash.jpg) no-repeat
+    center center/cover;
+
   height: 100vh;
-  
-  
 }
-h1{
+h1 {
   color: white;
-  border: 1px solid ;
+  border: 1px solid;
   box-shadow: 0 10px 10px 0;
 }
 
-p{
-  
-  color:#F0C808 ;
+p {
+  color: #08f04a;
   font-size: 2rem;
   font-weight: 900;
 }
 
-button:hover{
-  background-color:#D6D4A0;
+button:hover {
+  background-color: #d6d4a0;
 }
